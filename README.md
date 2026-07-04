@@ -26,44 +26,81 @@ Database: PostgreSQL
 
 ## Features
 
-### Register an account
+### User registration
 
-New users can create an account, create events, RSVP to events, and manage their profile.
-
-[gif goes here]
-
-### Create an event
-
-Form for a user to create a new event, specifying name, description, date, location, category, and max capacity.
+To browse and join local events, users need to create an account with their email.
 
 [gif goes here]
 
-### Browse events
+### Event creation
 
-Home page where users can view a list/grid of upcoming events, with filters by category, date, or location.
-
-[gif goes here]
-
-### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
-
-###User Profile
-Profile page where the user can see the events they’re organizing and the events they’ve joined.
+Users can create a new event with a name, description, date, location, and category so others can discover and join it.
 
 [gif goes here]
 
+### Event browsing
 
-### Event Detail Page
-Individual page for each event with full information, attendee list, and the option to RSVP/cancel.
-
-[gif goes here]
-
-### Delete event
-Users can delete events they have created, removing them from the site.
+Users can view a list of upcoming events to discover things happening near them.
 
 [gif goes here]
 
-### RSVP to an event
-Users can confirm their attendance to an event and see how many other people are attending.
+### Category filtering
+
+Users can filter events by category to quickly find ones that match their interests.
+
+[gif goes here]
+
+### Keyword search
+
+Users can search for events by keyword to find a specific event they already have in mind.
+
+[gif goes here]
+
+### Event details view
+
+Users can view an event's full details, including time, location, and description, to decide whether to attend.
+
+[gif goes here]
+
+### RSVP
+
+Users can RSVP to an event to secure their spot and let the organizer know they're coming.
+
+[gif goes here]
+
+### RSVP cancellation
+
+Users can cancel their RSVP to free up their spot if their plans change.
+
+[gif goes here]
+
+### Attendee count
+
+Users can see how many people are attending an event to gauge its size and popularity before joining.
+
+[gif goes here]
+
+### Event editing
+
+Users can edit the details of an event they created to keep attendees informed with accurate information.
+
+[gif goes here]
+
+### Event deletion
+
+Users can delete an event they created to notify attendees if it's no longer happening.
+
+[gif goes here]
+
+### Attendee list
+
+Users can view the list of attendees for their event to plan accordingly for capacity or supplies.
+
+[gif goes here]
+
+### Profile dashboard
+
+Users can view a profile page showing the events they're organizing and the ones they've RSVP'd to, so they can track their activity in one place.
 
 [gif goes here]
 
