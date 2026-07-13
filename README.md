@@ -18,9 +18,9 @@ Our group drew inspiration from popular event platforms like Meetup, along with 
 
 ## Tech Stack
 
-Frontend: React.Js
+Frontend: React
 
-Backend: Express
+Backend: Express.js
 
 Database: PostgreSQL
 
