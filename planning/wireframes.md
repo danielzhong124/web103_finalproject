@@ -26,11 +26,11 @@ RSVP Modal (Pop Up)
 
 ## Wireframe 2: View Event Page Details
 
-![JPG of wireframe](images/user_story_5_view_event_page_details.jpg)
+![PNG of wireframe](images/3.%20Event%20Details%20Page.png)
 
 ## Wireframe 3: Create Event Page Form
 
-![JPG of wireframe](images/user_story_9_create_event_form.jpg)
+![PNG of wireframe](images/4.%20Create%20Event%20Page.jpg)
 
 ## Wireframe 4: Browse Events Page
 ![PNG of wireframe](images/Browse%20Events%20Page.png)
