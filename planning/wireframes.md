@@ -4,15 +4,21 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## List of Pages
 
-Sign-Up / Login Page
+Landing / Home Page (Abilty to login / sign up) ⭐
 
-Event Discovery / Browsing Page (Home)
+Browse Events Page
 
 Event Details Page ⭐
 
 Create Event Page ⭐
 
+User Profile Dashboard ⭐
+
+Organize Profile Dashboard ⭐
+
 Edit Event Page
+
+RSVP Modal (Pop Up)
 
 ## Wireframe 1: Landing/Home Page
 
