@@ -1,4 +1,4 @@
-# Meetup Hub (Name Undecided)
+# Unify
 
 CodePath WEB103 Final Project
 
@@ -10,7 +10,7 @@ Designed and developed by: David Odejimi, Fatma Elmadani, Wanyi Ng, Daniel Zhong
 
 ### Description and Purpose
 
-Meetup (Name) is a full-stack web application that helps people discover, create, and join local events based on their interests. Whether users are looking for networking opportunities, fitness groups, study sessions, social gatherings, or hobby meetups, the platform makes it easy to connect with others and build meaningful communities. Users can browse upcoming events, RSVP, manage the events they organize, and keep track of the events they plan to attend.
+Unify is a full-stack web application that helps people discover, create, and join local events based on their interests. Whether users are looking for networking opportunities, fitness groups, study sessions, social gatherings, or hobby meetups, the platform makes it easy to connect with others and build meaningful communities. Users can browse upcoming events, RSVP, manage the events they organize, and keep track of the events they plan to attend.
 
 ### Inspiration
 
