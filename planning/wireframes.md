@@ -4,18 +4,26 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## List of Pages
 
-[👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
+Sign-Up / Login Page
 
-## Wireframe 1: [page title]
+Event Discovery / Browsing Page (Home)
+
+Event Details Page ⭐
+
+Create Event Page ⭐
+
+Edit Event Page
+
+## Wireframe 1: Landing/Home Page
 
 [👉🏾👉🏾👉🏾 include wireframe 1]
 
-## Wireframe 2: [page title]
+## Wireframe 2: View Event Page Details
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+![JPG of wireframe](images/user_story_5_view_event_page_details.jpg)
 
-## Wireframe 3: [page title]
+## Wireframe 3: Create Event Page Form
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
+![JPG of wireframe](images/user_story_9_create_event_form.jpg)
 
-[👉🏾👉🏾👉🏾 include more wireframes as desired]
+<!-- [👉🏾👉🏾👉🏾 include more wireframes as desired] -->
