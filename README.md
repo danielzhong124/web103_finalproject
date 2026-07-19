@@ -5,6 +5,7 @@ CodePath WEB103 Final Project
 Designed and developed by: David Odejimi, Fatma Elmadani, Wanyi Ng, Daniel Zhong, Diana Gómez, Hevander da Costa
 
 🔗 Link to dev repo: https://github.com/Unify-Group/Unify
+
 🔗 Link to deployed app:
 
 ## About
